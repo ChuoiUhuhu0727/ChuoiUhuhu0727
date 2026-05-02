@@ -2,9 +2,10 @@
 
 I'm a Computer Science student (with a minor in Human-centered Engineering) currently learning how to build simple AI systems, with a focus on sensor data and wearable devices.
 
-I’m especially interested in understanding how things actually work end-to-end, in both hardware and software.
+I enjoy exploring the interconnection of hardware and software, and cherish every moment of building an end-to-end project.
 
-# 🧠 What I'm exploring
+## 🧠 What I'm exploring
+
 * Building small machine learning pipelines from raw data to prediction
 * Working with sensor data (IMU: accelerometer, gyroscope)
 * Basic time-series processing (windowing, feature extraction)
