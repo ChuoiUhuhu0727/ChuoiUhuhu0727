@@ -33,12 +33,14 @@ I enjoy exploring the interconnection of hardware and software, and cherish ever
 * **Programming languages**
   Python, SQL, R, Java, C++ (currently learning)
 
-* **AI-focused: Machine Learning, Deep Learning**
+* **AI-focused**
+  Machine Learning, Deep Learning
 
-* **Engineering-focused: Signal Processing, Electronics**
+* **Engineering-focused:**
+  Signal Processing, Electronics
 
 * **System thinking (early stage)**
-  (connecting data → model → output)
+  connecting data → model → output
 
 ## 📈 How I approach learning & building
 
@@ -53,7 +55,7 @@ I enjoy exploring the interconnection of hardware and software, and cherish ever
 
 ## 📌 Long-term direction
 
-(still learning and figuring things out step by step)
+(still learning and experimenting)
 
 * handle real-world (noisy) data
 * build simple but complete systems
