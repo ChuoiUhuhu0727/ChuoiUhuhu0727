@@ -2,9 +2,7 @@
 
 I'm a Computer Science student (with a minor in Human-centered Engineering) currently learning how to build simple AI systems, with a focus on sensor data and wearable devices.
 
-I’m especially interested in understanding how things actually work end-to-end, not just at the model level.
-
----
+I’m especially interested in understanding how things actually work end-to-end, in both hardware and software.
 
 ## 🧠 What I'm exploring
 
@@ -13,11 +11,9 @@ I’m especially interested in understanding how things actually work end-to-end
 * Basic time-series processing (windowing, feature extraction)
 * Early steps toward running models on embedded devices
 
----
-
 ## 🚧 What I'm working on
 
-* A motion recognition project using IMU data
+* A motion recognition project using IMU + PPG + ESP32 data
 
 * Implementing a simple pipeline:
 
@@ -32,60 +28,40 @@ I’m especially interested in understanding how things actually work end-to-end
   * evaluate simple models (Random Forest, Logistic Regression)
   * simulate real-time prediction
 
----
-
 ## 🛠️ Skills I'm building
 
-* **Python for data work**
-  (NumPy, Pandas, basic data processing)
+* **Programming languages**
+  Python, SQL, R, Java, C++ (currently learning)
 
-* **Applied Machine Learning**
-  (classification, model evaluation, overfitting basics)
+* **AI-focused: Machine Learning, Deep Learning**
 
-* **Time-series & signal basics**
-  (sliding windows, statistical features)
+* **Engineering-focused: Signal Processing, Electronics**
 
 * **System thinking (early stage)**
   (connecting data → model → output)
 
-* **C/C++ (currently learning)**
-  for embedded systems and low-level understanding
+## 📈 How I approach learning & building
 
----
-
-## 📈 How I approach learning
-
-* I try to learn by building small systems, even if they’re imperfect
-* I focus on understanding each step instead of using things as black boxes
-* I often explore different directions, then try to connect them into one working pipeline
-
----
+* I enjoy building end-to-end pipeline of simple embedded systems (from connecting hardware to generating AI-prediting outputs)
+* I vibecode a lot with Claude, Gemini, ChatGPT but always be sure about those 4 things: input, output, core logic, highest-probability buggy parts
 
 ## 🎯 Current focus
 
-* Making small projects actually run end-to-end
+* Making small systems/projects actually run end-to-end
 * Improving data handling and feature design
 * Gradually moving from Python prototypes → embedded-friendly systems
 
----
-
 ## 📌 Long-term direction
 
-I’m working toward being able to:
+(still learning and figuring things out step by step)
 
 * handle real-world (noisy) data
 * build simple but complete systems
 * combine AI with embedded environments
 
-(still learning and figuring things out step by step)
-
----
-
 ## 📫 Contact
 
 * LinkedIn: [(Giang Nguyễn Ngọc Hoàng)](https://www.linkedin.com/in/giang-ho%C3%A0ng/)
 * Email: (giang.hoang.230105@student.fulbright.edu.vn)
-
----
 
 > “Learning by building, one small system at a time.”
