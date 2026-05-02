@@ -44,8 +44,8 @@ I enjoy exploring the interconnection of hardware and software, and cherish ever
 
 ## 📈 How I approach learning & building
 
-* I enjoy building end-to-end pipeline of simple embedded systems (from connecting hardware to generating AI-prediting outputs)
-* I vibecode a lot with Claude, Gemini, ChatGPT but always be sure about those 4 things: input, output, core logic, highest-probability buggy parts
+* I enjoy building end-to-end pipeline of simple embedded systems (from connecting hardware to generating AI-predicting outputs)
+* I vibecoded a lot with Claude, Gemini, ChatGPT but always be sure about those 4 things: input, output, core logic, highest-probability buggy parts
 
 ## 🎯 Current focus
 
