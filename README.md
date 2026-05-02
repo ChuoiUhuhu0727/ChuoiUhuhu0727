@@ -83,8 +83,8 @@ I’m working toward being able to:
 
 ## 📫 Contact
 
-* LinkedIn: (add your link)
-* Email: (add your email)
+* LinkedIn: [(Giang Nguyễn Ngọc Hoàng)](https://www.linkedin.com/in/giang-ho%C3%A0ng/)
+* Email: (giang.hoang.230105@student.fulbright.edu.vn)
 
 ---
 
