@@ -4,7 +4,7 @@ I'm a Computer Science student (with a minor in Human-centered Engineering) curr
 
 I’m especially interested in understanding how things actually work end-to-end, in both hardware and software.
 
-## 🧠 What I'm exploring
+# 🧠 What I'm exploring
 
 * Building small machine learning pipelines from raw data to prediction
 * Working with sensor data (IMU: accelerometer, gyroscope)
