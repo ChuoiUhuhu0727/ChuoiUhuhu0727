@@ -62,8 +62,6 @@ I enjoy exploring the interconnection of hardware and software, and cherish ever
 * combine AI with embedded environments
 
 ## 📫 Contact
-
-* LinkedIn: [(Giang Nguyễn Ngọc Hoàng)]((https://www.linkedin.com/in/giang-ho%C3%A0ng/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BSPr5JuRTV%2BxzIO1P4k7Uw%3D%3D))
 * Email: (giang.hoang.230105@student.fulbright.edu.vn)
 
 > “Learning by building, one small system at a time.”
